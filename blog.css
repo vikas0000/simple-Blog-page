@@ -1,0 +1,39 @@
+/*-----header-----*/
+#main-header {
+    height: 400px;
+}
+
+#about-site {
+    color: grey;
+}
+
+
+
+/*-----main-----*/
+
+h1 {
+   
+    color: darkslategrey;
+    font-family: sans-serif;
+}
+
+#blog-content {
+    width: 1000px;
+}
+h4 {
+    font-size: 28px;
+}
+li {
+    font-size: 28px;
+}
+
+.h-style {
+    color: darkslategrey;
+}
+p {
+    font-size: 28px;
+}
+p:hover {
+    color: orange;
+}
+
